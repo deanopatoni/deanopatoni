@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dean @deanopatoni
 - 👀 I’m interested in Power BI and looking to learn Python
-- 🌱 I’m currently on a Data Academy apprentiship
+- 🌱 I’m currently on a Data Academy apprenticeship
 - 💞️ I’m looking to collaborate on BIM model workflows
 - 📫 How to reach me here on github.
 
